@@ -27,22 +27,10 @@ cd nodejs-file-handling
 Download & install Node.js from [Node.js Official Website](https://nodejs.org/).  
 
 ### **3️⃣ Run the Examples**  
-#### 🔹 **Read File (Async)**
+#### 🔹 **Read and write File (Async and Sync)**
 ```bash
-node readFile.js
+node file.js
 ```
-
-#### 🔹 **Write File (Async)**
-```bash
-node writeFile.js
-```
-
-#### 🔹 **Sync vs Async Comparison**
-```bash
-node syncVsAsync.js
-```
-
----
 
 ## 📺 Watch the Video  
 🎥 **YouTube Video:** [Watch Here]([https://www.youtube.com/your-video-link](https://youtu.be/7EIiWY7Vlx0))  
@@ -50,8 +38,8 @@ node syncVsAsync.js
 ---
 
 ## 🔗 Connect With Me  
-📌 **GitHub:** ([https://github.com/your-profile](https://github.com/MuhammadTalhakhan2003))  
-📌 **LinkedIn:** ([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/muhammad-talha-khan-568515264/))  
+📌 **GitHub:** ([https://github.com/MuhammadTalhakhan2003](https://github.com/MuhammadTalhakhan2003))  
+📌 **LinkedIn:** ([https://linkedin.com/in/muhammad-talha-khan-568515264](https://www.linkedin.com/in/muhammad-talha-khan-568515264/))  
 ---
 
 ## ⭐ Support  
